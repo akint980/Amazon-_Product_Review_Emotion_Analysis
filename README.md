@@ -34,8 +34,10 @@ While traditional sentiment analysis classifies reviews as positive or negative,
 - Lowercased text
 - Removed reviews shorter than 10 characters
 
-### 2. Emotion Detection
+### 2. Sentiment Analysis
+<img width="547" height="115" alt="image" src="https://github.com/user-attachments/assets/d521b768-de19-4ea5-8c71-0727fb582af4" />
 
+###3. Emotion Analysis
 Used Hugging Face’s [`j-hartmann/emotion-english-distilroberta-base`](https://huggingface.co/j-hartmann/emotion-english-distilroberta-base) model to classify each review into one of:
 
 - Joy
@@ -45,6 +47,8 @@ Used Hugging Face’s [`j-hartmann/emotion-english-distilroberta-base`](https://
 - Disgust
 - Surprise
 - Neutral
+## 🧪 Output
+<img width="704" height="128" alt="image" src="https://github.com/user-attachments/assets/446dc031-7098-4020-8d1f-ce27f4cc70ef" />
 
 ### 3. Visualization
 
@@ -56,7 +60,7 @@ Built an interactive dashboard using **Streamlit** to:
 
 ---
 
-## 🧪 Sample Output
+## 🧪 Output
 
 | Review                                                 | Emotion |
 |--------------------------------------------------------|---------|
