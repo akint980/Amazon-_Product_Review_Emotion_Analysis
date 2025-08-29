@@ -52,9 +52,18 @@ Used Hugging Face’s [`j-hartmann/emotion-english-distilroberta-base`](https://
 
 ### 4. Visualization
 <img width="594" height="455" alt="image" src="https://github.com/user-attachments/assets/c61081fa-7ff2-456a-955a-ee329ffad3cd" />
+Analysis of Sentiment Distribution:
+
+-Positive sentiment dominates the reviews, with around 15,000 reviews. This indicates that most customers had a favorable experience or expressed positive emotions about the products.
+-Neutral sentiment comes next with roughly 4,000 reviews. This could represent customers who were indifferent, factual, or neither strongly positive nor negative.
+-Negative sentiment is the least frequent, with around 1,800 reviews. This means fewer customers expressed dissatisfaction or negative emotions.
+-Sentiment distribution of the top 10 categories by total reviews per product category
+<img width="487" height="289" alt="image" src="https://github.com/user-attachments/assets/b62c2f83-9283-48ee-9f84-207fe1db6498" />
+
 
 
 ### 5. Conclusion
+While customers are generally pleased with their purchases on Amazon, addressing the concerns raised in neutral and negative reviews could help boost sales and enhance overall customer satisfaction
 
 
 
