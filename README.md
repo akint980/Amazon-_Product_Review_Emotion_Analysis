@@ -50,23 +50,13 @@ Used Hugging Face’s [`j-hartmann/emotion-english-distilroberta-base`](https://
 ## 🧪 Output
 <img width="704" height="128" alt="image" src="https://github.com/user-attachments/assets/446dc031-7098-4020-8d1f-ce27f4cc70ef" />
 
-### 3. Visualization
+### 4. Visualization
+<img width="594" height="455" alt="image" src="https://github.com/user-attachments/assets/c61081fa-7ff2-456a-955a-ee329ffad3cd" />
 
-Built an interactive dashboard using **Streamlit** to:
 
-- Explore emotion distributions
-- Filter reviews by detected emotion
-- View raw reviews and metadata
+### 5. Conclusion
 
----
 
-## 🧪 Output
-
-| Review                                                 | Emotion |
-|--------------------------------------------------------|---------|
-| Absolutely love this product, it smells amazing!       | Joy     |
-| I received a broken item, very disappointed.           | Sadness |
-| What a waste of money. Do not buy!                     | Anger   |
 
 ---
 
