@@ -61,5 +61,4 @@ Used Hugging Face’s [`j-hartmann/emotion-english-distilroberta-base`](https://
 ---
 
 
-```bash
-streamlit run app.py
+
